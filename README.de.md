@@ -23,52 +23,52 @@ Entdecken Sie unsere wachsende Sammlung kostenloser Tools:
 ### 🖼️ Bild-Tools
 | Tool | Beschreibung |
 | :--- | :--- |
-| [Bild Kompressor](https://kaithings.com/bild-kompressor) | Optimieren Sie Ihre Bilder ohne Qualitätsverlust. |
-| [PNG Kompressor](https://kaithings.com/png-komprimieren) | Erstklassige PNG-Komprimierung. |
-| [JPG Kompressor](https://kaithings.com/jpg-komprimieren) | Reduzieren Sie die JPG-Dateigröße effizient. |
-| [WebP Kompressor](https://kaithings.com/webp-komprimieren) | Moderne Komprimierung für WebP-Bilder. |
-| [WebP Konverter](https://kaithings.com/webp-konverter) | Konvertieren Sie Bilder in das moderne WebP-Format. |
-| [Bild Beschneiden](https://kaithings.com/bild-beschneiden) | Bilder online zuschneiden und skalieren. |
-| [SVG zu Bild](https://kaithings.com/svg-zu-bild) | Konvertieren Sie SVG-Dateien in PNG/JPG. |
-| [QR-Code Generator](https://kaithings.com/qr-code-generator) | Erstellen Sie sofort benutzerdefinierte QR-Codes. |
+| [Bild Kompressor](https://kaithings.com/de/bild-kompressor) | Optimieren Sie Ihre Bilder ohne Qualitätsverlust. |
+| [PNG Kompressor](https://kaithings.com/de/png-komprimieren) | Erstklassige PNG-Komprimierung. |
+| [JPG Kompressor](https://kaithings.com/de/jpg-komprimieren) | Reduzieren Sie die JPG-Dateigröße effizient. |
+| [WebP Kompressor](https://kaithings.com/de/webp-komprimieren) | Moderne Komprimierung für WebP-Bilder. |
+| [WebP Konverter](https://kaithings.com/de/webp-konverter) | Konvertieren Sie Bilder in das moderne WebP-Format. |
+| [Bild Beschneiden](https://kaithings.com/de/bild-beschneiden) | Bilder online zuschneiden und skalieren. |
+| [SVG zu Bild](https://kaithings.com/de/svg-zu-bild) | Konvertieren Sie SVG-Dateien in PNG/JPG. |
+| [QR-Code Generator](https://kaithings.com/de/qr-code-generator) | Erstellen Sie sofort benutzerdefinierte QR-Codes. |
 
 ### 📝 Text & Inhalt
 | Tool | Beschreibung |
 | :--- | :--- |
-| [Lorem Ipsum Generator](https://kaithings.com/lorem-ipsum-generator) | Generieren Sie Platzhaltertext für Designs in. |
-| [Textkonverter](https://kaithings.com/textkonverter) | Ändern Sie die Groß-/Kleinschreibung von Text. |
-| [Keyword Dichte](https://kaithings.com/keyword-dichte) | Analysieren Sie Text und Keyword-Nutzung. |
-| [Slug Generator](https://kaithings.com/slug-generator) | Erstellen Sie SEO-freundliche URL-Slugs. |
+| [Lorem Ipsum Generator](https://kaithings.com/de/lorem-ipsum-generator) | Generieren Sie Platzhaltertext für Designs in. |
+| [Textkonverter](https://kaithings.com/de/textkonverter) | Ändern Sie die Groß-/Kleinschreibung von Text. |
+| [Keyword Dichte](https://kaithings.com/de/keyword-dichte) | Analysieren Sie Text und Keyword-Nutzung. |
+| [Slug Generator](https://kaithings.com/de/slug-generator) | Erstellen Sie SEO-freundliche URL-Slugs. |
 
 ### 💻 Entwickler-Tools
 | Tool | Beschreibung |
 | :--- | :--- |
-| [JSON Formatierer](https://kaithings.com/json-formatierer) | Verschönern und validieren Sie JSON-Daten. |
-| [JSON Konverter](https://kaithings.com/json-zu-xml) | Konvertieren Sie JSON in XML, YAML oder CSV. |
-| [Base64 Konverter](https://kaithings.com/base64-konverter) | Kodieren und dekodieren Sie Base64-Strings. |
-| [Hash Generator](https://kaithings.com/hash-generator) | Generieren Sie MD5, SHA1 und andere Hashes. |
-| [UUID Generator](https://kaithings.com/uuid-generator) | Generieren Sie eindeutige UUIDs (v4). |
-| [JWT Decoder](https://kaithings.com/jwt-decoder) | Dekodieren und inspizieren Sie JSON Web Tokens. |
-| [Unix Timestamp Konverter](https://kaithings.com/unix-timestamp-konverter) | Konvertieren Sie Zeitstempel in lesbare Daten. |
-| [URL Encoder/Decoder](https://kaithings.com/url-kodieren-dekodieren) | Sichere URL-Kodierung und -Dekodierung. |
-| [HTML Editor](https://kaithings.com/html-editor) | Echtzeit-HTML-Bearbeitung und Vorschau. |
-| [Diff Checker](https://kaithings.com/diff-checker) | Vergleichen Sie Text- oder Codedateien auf Unterschiede. |
+| [JSON Formatierer](https://kaithings.com/de/json-formatierer) | Verschönern und validieren Sie JSON-Daten. |
+| [JSON Konverter](https://kaithings.com/de/json-zu-xml) | Konvertieren Sie JSON in XML, YAML oder CSV. |
+| [Base64 Konverter](https://kaithings.com/de/base64-konverter) | Kodieren und dekodieren Sie Base64-Strings. |
+| [Hash Generator](https://kaithings.com/de/hash-generator) | Generieren Sie MD5, SHA1 und andere Hashes. |
+| [UUID Generator](https://kaithings.com/de/uuid-generator) | Generieren Sie eindeutige UUIDs (v4). |
+| [JWT Decoder](https://kaithings.com/de/jwt-decoder) | Dekodieren und inspizieren Sie JSON Web Tokens. |
+| [Unix Timestamp Konverter](https://kaithings.com/de/unix-timestamp-konverter) | Konvertieren Sie Zeitstempel in lesbare Daten. |
+| [URL Encoder/Decoder](https://kaithings.com/de/url-kodieren-dekodieren) | Sichere URL-Kodierung und -Dekodierung. |
+| [HTML Editor](https://kaithings.com/de/html-editor) | Echtzeit-HTML-Bearbeitung und Vorschau. |
+| [Diff Checker](https://kaithings.com/de/diff-checker) | Vergleichen Sie Text- oder Codedateien auf Unterschiede. |
 
 ### 🎨 CSS & Design
 | Tool | Beschreibung |
 | :--- | :--- |
-| [CSS Minifier](https://kaithings.com/css-minifier) | Minimieren Sie CSS-Code für eine bessere Leistung. |
-| [Farbkonverter](https://kaithings.com/farbkonverter) | Konvertieren Sie HEX, RGB, HSL Farben. |
-| [Gradient Generator](https://kaithings.com/gradient-generator) | Erstellen Sie schöne CSS-Verläufe. |
-| [Box Shadow Generator](https://kaithings.com/box-shadow-generator) | Entwerfen Sie visuell CSS-Schatten. |
-| [PX zu REM Konverter](https://kaithings.com/px-rem-konverter) | Konvertieren Sie Pixel einfach in REM. |
+| [CSS Minifier](https://kaithings.com/de/css-minifier) | Minimieren Sie CSS-Code für eine bessere Leistung. |
+| [Farbkonverter](https://kaithings.com/de/farbkonverter) | Konvertieren Sie HEX, RGB, HSL Farben. |
+| [Gradient Generator](https://kaithings.com/de/gradient-generator) | Erstellen Sie schöne CSS-Verläufe. |
+| [Box Shadow Generator](https://kaithings.com/de/box-shadow-generator) | Entwerfen Sie visuell CSS-Schatten. |
+| [PX zu REM Konverter](https://kaithings.com/de/px-rem-konverter) | Konvertieren Sie Pixel einfach in REM. |
 
 ### 🌐 Netzwerk & Utils
 | Tool | Beschreibung |
 | :--- | :--- |
-| [Mein IP](https://kaithings.com/mein-ip) | Überprüfen Sie Ihre öffentliche IP-Adresse. |
-| [Passwort Generator](https://kaithings.com/passwort-generator) | Erstellen Sie starke, sichere Passwörter. |
-| [Meta Tag Generator](https://kaithings.com/meta-tag-generator) | Generieren Sie SEO-Meta-Tags für Websites. |
+| [Mein IP](https://kaithings.com/de/mein-ip) | Überprüfen Sie Ihre öffentliche IP-Adresse. |
+| [Passwort Generator](https://kaithings.com/de/passwort-generator) | Erstellen Sie starke, sichere Passwörter. |
+| [Meta Tag Generator](https://kaithings.com/de/meta-tag-generator) | Generieren Sie SEO-Meta-Tags für Websites. |
 
 ## 🗺️ Roadmap
 
